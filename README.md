@@ -1,4 +1,4 @@
-# mesa-loonggpu
+# mesa-loonggpu-loongarch64
 
 Documentation and verification scaffold for the **Mesa / LoongGPU user-space
 graphics stack** on AOSC OS loongarch64 (Loongson 3B6000M, LG200 GPU).
